@@ -116,5 +116,4 @@ This RESTful API follows best practices by:
 
 These practices make the API clean, scalable, and professional.
 # justin-api-activity
-# justin-api-activity
-# justin-api-activity
+
