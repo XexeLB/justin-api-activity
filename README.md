@@ -1,4 +1,4 @@
-# RESTful API Activity – Dexter Rilles
+# RESTful API Activity – Justin Jhade Permejo
 
 ---
 
